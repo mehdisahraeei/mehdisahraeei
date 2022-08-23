@@ -1,4 +1,4 @@
-#### String hello = "I try to post my the best Projects on github page till you can use these";
+#### String hello = "I try to post my best Projects on github page, so you can use them";
 
 
 ```
