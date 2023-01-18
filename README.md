@@ -38,9 +38,9 @@ Log.i("mahdisahrai", hello);
 
 
 -----------------------------------------------------------------------------------
-<center>
+<p align="center">
 
 my kaggle address:
 [link kaggle](https://www.kaggle.com/datasets/mehdisahraei/persian-alpha)
  
-</center>
+</p>
